@@ -1,5 +1,3 @@
-#Coolest Coding Platform - India
-
 **Project Name:**
 Coolest Coding Platform - India
 
